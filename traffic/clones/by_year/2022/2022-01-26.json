@@ -1,7 +1,7 @@
 {
   "timestamp" : "2022-01-26T00:00:00Z",
-  "count" : 3,
-  "count_minmax" : [ 3, 3 ],
+  "count" : 5,
+  "count_minmax" : [ 3, 5 ],
   "count_prev_day_inc" : 3,
   "count_prev_day_dec" : 0,
   "uniques" : 2,
